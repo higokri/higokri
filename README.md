@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I'm **Changwoo Baek**, a graduate researcher at the [PNU-CVSP Lab](https://www.pnu-cvsp.com/) (Pusan National University),
-advised by [Prof. Kyeongbo Kong](https://www.pnu-cvsp.com/prof).
+I'm **Changwoo Baek**, a graduate researcher at the [PNU-CVSP Lab](https://www.pnu-cvsp.com/) (Pusan National University).
 
 I work on **efficient LLM / VLM inference** — pruning redundant visual tokens and compressing the KV cache
 so large models run under tight budgets. I'm increasingly interested in **agentic AI** and **physical AI**,
