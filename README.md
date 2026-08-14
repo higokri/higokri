@@ -14,7 +14,3 @@ bringing this efficiency to long-horizon agents and real-world embodied systems.
 - **[RestoreKV](https://paper.pnu-cvsp.com/RestoreKV/)** — learned KV-cache restoration under aggressive eviction · 🥇 #1 on the [KVPress Leaderboard](https://huggingface.co/spaces/nvidia/kvpress-leaderboard)
 - **[3DZip](https://paper.pnu-cvsp.com/3DZip/)** — training-free 3D token compression (ECCV 2026)
 - **[AgilePruner](https://paper.pnu-cvsp.com/AgilePruner/)** — adaptive visual token pruning for LVLMs (ICLR 2026)
-
-<br>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=higokri&show_icons=true&hide_border=true&count_private=true" alt="stats">
