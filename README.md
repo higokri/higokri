@@ -6,8 +6,7 @@ advised by [Prof. Kyeongbo Kong](https://www.pnu-cvsp.com/prof).
 I work on **efficient LLM / VLM inference** — pruning redundant visual tokens and compressing the KV cache
 so large models run under tight budgets, without retraining the backbone.
 
-🌎 [Homepage](https://sites.google.com/view/changwoobaek00/%ED%99%88) &nbsp;·&nbsp; ⚡ [BTS — Busan Token-pruning Series](https://higokri.github.io/BTS/)
-
+🌎 [Homepage](https://sites.google.com/view/changwoobaek00/%ED%99%88)
 #### Selected work
 
 - **[RestoreKV](https://paper.pnu-cvsp.com/RestoreKV/)** — learned KV-cache restoration under aggressive eviction · 🥇 #1 on the [KVPress Leaderboard](https://huggingface.co/spaces/nvidia/kvpress-leaderboard)
