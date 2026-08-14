@@ -1,5 +1,3 @@
-### Hi there 👋
-
 I'm **Changwoo Baek**, a graduate researcher at the [PNU-CVSP Lab](https://www.pnu-cvsp.com/) (Pusan National University).
 
 I work on **efficient LLM / VLM inference** — pruning redundant visual tokens and compressing the KV cache
