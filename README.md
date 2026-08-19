@@ -12,4 +12,6 @@ bringing this efficiency to long-horizon agents and real-world embodied systems.
 - **[3DZip](https://paper.pnu-cvsp.com/3DZip/)** — training-free 3D token compression (ECCV 2026)
 - **[AgilePruner](https://paper.pnu-cvsp.com/AgilePruner/)** — adaptive visual token pruning for LVLMs (ICLR 2026)
 
+I also curate **[Awesome 3D Token Compression](https://github.com/higokri/Awesome-3D-Token-Compression)** — a reading list of token pruning / merging methods for 3D multimodal LLMs.
+
 <sub>🏡 <i>My username <b>higokri</b> is named after my hometown, <a href="https://www.miryang.go.kr/twn/index.do?mnNo=1060000&owd=sanoe">Higokri (희곡리)</a>.</i></sub>
