@@ -8,6 +8,7 @@ bringing this efficiency to long-horizon agents and real-world embodied systems.
 
 #### Selected work
 
-- **[RestoreKV](https://github.com/cvsp-lab/RestoreKV)** — learned KV-cache restoration under aggressive eviction · 🥇 #1 on the [NVIDIA KVPress Leaderboard](https://huggingface.co/spaces/nvidia/kvpress-leaderboard) · merged into [NVIDIA's official KVPress repo](https://github.com/NVIDIA/kvpress)
+- **[RestoreKV](https://github.com/cvsp-lab/RestoreKV)** — learned KV-cache restoration under aggressive eviction · 🥇 #1 on the [NVIDIA KVPress Leaderboard](https://huggingface.co/spaces/nvidia/kvpress-leaderboard)
+  - merged into the official [NVIDIA KVPress Repository](https://github.com/NVIDIA/kvpress)
 - **[3DZip](https://github.com/cvsp-lab/3DZip)** — training-free 3D token compression (ECCV 2026)
 - **[AgilePruner](https://github.com/cvsp-lab/AgilePruner)** — adaptive visual token pruning for LVLMs (ICLR 2026)
